@@ -1,1 +1,7 @@
 /* All styles for your header Components live here */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.headerContent {
+	font-family: 'Open Sans', sans-serif;
+}
+

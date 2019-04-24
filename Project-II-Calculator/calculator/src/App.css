@@ -54,7 +54,7 @@ table {
 .app {
 	height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("https://i.imgur.com/HmqIvNY.jpg");
+	background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("https://i.imgur.com/ib7Cm1z.jpg");
 	background-size: cover;
 	display: flex;
 	justify-content: center;
